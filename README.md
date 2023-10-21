@@ -1,8 +1,6 @@
 # Tweet-Sentiment-Analyser
 This App can analyse the sentiment of a tweet or a csv file with tweets
 
-# proj obj, project description, rules, snapshots of UI from input till o/p
-
 This project can serve as an efficient tool in Industry to identify and make predictions based on trends
 I incorporated the use of various libraries to create a frontend, and backend code for my project along with designing a simple and attractive User Interface
 
