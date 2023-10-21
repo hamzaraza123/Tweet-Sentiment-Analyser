@@ -1,8 +1,7 @@
 # Tweet-Sentiment-Analyser
 This App can analyse the sentiment of a tweet or a csv file with tweets
 
-This project can serve as an efficient tool in Industry to identify and make predictions based on trends
-I incorporated the use of various libraries to create a frontend, and backend code for my project along with designing a simple and attractive User Interface
+This project can serve as an efficient tool in Industry to identify and make predictions based on trends. I incorporated the use of various libraries to create a frontend, and backend code for my project along with designing a simple and attractive User Interface
 
 What my app does is perform sentiment analysis using TextBlob and nltk,  to calculate sentiment percentages, and render a result with sentiment classification on the UI, made using tkinter
 
